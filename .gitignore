@@ -8,7 +8,6 @@ __pycache__/
 
 .codex
 
-outputs/
 
 *.pt
 *.png
