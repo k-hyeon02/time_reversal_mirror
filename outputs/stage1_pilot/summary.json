@@ -1,0 +1,85 @@
+{
+  "device": "cuda",
+  "output_dir": "/home/s2021102349/time_reversal_mirror/outputs/stage1_pilot",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.31195425195619464,
+      "train_mae_deg": 57.108997951049425,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.015625,
+      "train_sample_acc_10deg": 0.015625,
+      "val_loss": 0.36210282891988754,
+      "val_mae_deg": 63.416857226694574,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.06911354791373014,
+      "train_mae_deg": 70.35218358881778,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.0,
+      "train_sample_acc_10deg": 0.0,
+      "val_loss": 0.062212259508669376,
+      "val_mae_deg": 63.416857226694574,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.05599186988547444,
+      "train_mae_deg": 77.98062792805726,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.0,
+      "train_sample_acc_10deg": 0.0,
+      "val_loss": 0.05350151099264622,
+      "val_mae_deg": 63.23781335134274,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.055389176588505507,
+      "train_mae_deg": 67.45585906035456,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.03125,
+      "train_sample_acc_10deg": 0.03125,
+      "val_loss": 0.05342707596719265,
+      "val_mae_deg": 57.54614443934797,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.05459050531499088,
+      "train_mae_deg": 59.47153228882653,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.015625,
+      "train_sample_acc_10deg": 0.015625,
+      "val_loss": 0.053740520030260086,
+      "val_mae_deg": 55.51291240793005,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.05367243476212025,
+      "train_mae_deg": 53.95394991298527,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.015625,
+      "train_sample_acc_10deg": 0.015625,
+      "val_loss": 0.05370925646275282,
+      "val_mae_deg": 55.357070085721226,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    }
+  ],
+  "best_val_loss": 0.05342707596719265
+}

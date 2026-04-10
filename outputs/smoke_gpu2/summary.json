@@ -1,0 +1,20 @@
+{
+  "device": "cuda",
+  "output_dir": "/home/s2021102349/time_reversal_mirror/outputs/smoke_gpu2",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.0,
+      "train_mae_deg": 0.0,
+      "train_recall_5deg": 0.0,
+      "train_recall_10deg": 0.0,
+      "train_sample_acc_10deg": 0.0,
+      "val_loss": 0.0,
+      "val_mae_deg": 0.0,
+      "val_recall_5deg": 0.0,
+      "val_recall_10deg": 0.0,
+      "val_sample_acc_10deg": 0.0
+    }
+  ],
+  "best_val_loss": 0.0
+}
