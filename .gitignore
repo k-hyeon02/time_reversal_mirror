@@ -8,9 +8,4 @@ __pycache__/
 
 .codex
 
-
-*.pt
-*.png
-*.json
-
 !.gitignore
